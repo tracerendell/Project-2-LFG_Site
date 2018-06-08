@@ -5,6 +5,7 @@
 this sight will allow people to post LFG inquiries to the website. Groups looking for individual players will be directed to a list of compatible players, and individual players will be directed to a list of compatible.
 
 # Sketch
+see PDF
 
 # API Used
 - youtube
